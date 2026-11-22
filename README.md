@@ -23,7 +23,7 @@ A lightweight, offline desktop password manager written in Python with a Tkinter
      python app.py
      ```
 
-## Screemshots of program
+## Screenshots of program
 
 - ** Interface before making any vaults**
 <img width="885" height="555" alt="image" src="https://github.com/user-attachments/assets/d746b326-0a94-48d7-bfc1-81c16f52cbe6" />
