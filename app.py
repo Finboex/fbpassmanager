@@ -689,7 +689,7 @@ class PasswordManagerApp:
     def lock_vault(self) -> None:
         self.master_password = ""
         self.entries = []
-        self.show_unlock_screen()
+        self.lock_and_exit()
 
 
 if __name__ == "__main__":
